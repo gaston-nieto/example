@@ -1,0 +1,93 @@
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:08:15-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:08:15-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:09:13-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:09:13-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:10:11-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:10:11-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:11:44-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:11:44-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:12:11-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:12:11-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:14:46-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:14:46-03:00"}
+{"level":"error","message":"ENOENT: no such file or directory, stat '/home/gaston/Documents/projects/santex/academy/front/dist/santex-academy/index.html'","metadata":{"code":"ENOENT","errno":-2,"expose":false,"path":"/home/gaston/Documents/projects/santex/academy/front/dist/santex-academy/index.html","status":404,"statusCode":404,"syscall":"stat"},"stack":"Error: ENOENT: no such file or directory, stat '/home/gaston/Documents/projects/santex/academy/front/dist/santex-academy/index.html'","timestamp":"2023-07-23T18:14:50-03:00"}
+{"level":"error","message":"ENOENT: no such file or directory, stat '/home/gaston/Documents/projects/santex/academy/front/dist/santex-academy/index.html'","metadata":{"code":"ENOENT","errno":-2,"expose":false,"path":"/home/gaston/Documents/projects/santex/academy/front/dist/santex-academy/index.html","status":404,"statusCode":404,"syscall":"stat"},"stack":"Error: ENOENT: no such file or directory, stat '/home/gaston/Documents/projects/santex/academy/front/dist/santex-academy/index.html'","timestamp":"2023-07-23T18:14:56-03:00"}
+{"level":"error","message":"ENOENT: no such file or directory, stat '/home/gaston/Documents/projects/santex/academy/front/dist/santex-academy/index.html'","metadata":{"code":"ENOENT","errno":-2,"expose":false,"path":"/home/gaston/Documents/projects/santex/academy/front/dist/santex-academy/index.html","status":404,"statusCode":404,"syscall":"stat"},"stack":"Error: ENOENT: no such file or directory, stat '/home/gaston/Documents/projects/santex/academy/front/dist/santex-academy/index.html'","timestamp":"2023-07-23T18:15:02-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:15:46-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:15:46-03:00"}
+{"level":"error","message":"ENOENT: no such file or directory, stat '/home/gaston/Documents/projects/santex/academy/front/dist/santex-academy/index.html'","metadata":{"code":"ENOENT","errno":-2,"expose":false,"path":"/home/gaston/Documents/projects/santex/academy/front/dist/santex-academy/index.html","status":404,"statusCode":404,"syscall":"stat"},"stack":"Error: ENOENT: no such file or directory, stat '/home/gaston/Documents/projects/santex/academy/front/dist/santex-academy/index.html'","timestamp":"2023-07-23T18:15:50-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:16:57-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:16:57-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:16:59-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:16:59-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:16:59-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:17:07-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:17:07-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:17:07-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:17:10-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:17:10-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:17:10-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:17:13-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:17:13-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:17:13-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:17:18-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:17:18-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:17:18-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:17:36-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:17:36-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:18:03-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:18:03-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:18:05-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:18:05-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:18:05-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:18:16-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:18:16-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:18:16-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:18:18-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:18:18-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:18:18-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:18:35-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:18:35-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:18:35-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:19:11-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:19:11-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:19:13-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:19:13-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:19:13-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:19:16-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:19:16-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:19:16-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:19:54-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:19:54-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:21:03-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:21:03-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:21:06-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:21:06-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:21:06-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:21:09-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:21:09-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:21:09-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:21:14-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:21:14-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:21:14-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:21:32-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:21:32-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:21:34-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:21:34-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:21:34-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:22:06-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:22:06-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:22:13-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:22:13-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:22:13-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:22:20-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:22:20-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:22:20-03:00"}
+{"level":"debug","message":"Database: academy - Executing (default): SELECT 1+1 AS result","metadata":{},"timestamp":"2023-07-23T18:24:39-03:00"}
+{"level":"debug","message":"Conexión con la Base de Datos: EXITOSA","metadata":{},"timestamp":"2023-07-23T18:24:39-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:24:41-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:24:41-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:24:41-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:24:42-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:24:42-03:00"}
+{"level":"error","message":"Not allowed by CORS","metadata":{"origin":"http://localhost:4001"},"timestamp":"2023-07-23T18:24:42-03:00"}
